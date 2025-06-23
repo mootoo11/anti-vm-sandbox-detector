@@ -96,4 +96,4 @@ if __name__ == "__main__":
     if is_env_suspicious():
         sys.exit()
     else:
-        print("✅ النظام حقيقي")
+        print("✅ OK")
